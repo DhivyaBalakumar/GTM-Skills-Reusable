@@ -1,0 +1,16 @@
+{
+  "_comment": "Pricing is computed in code, never by the LLM. Edit to match your price book.",
+  "currency": "USD",
+  "plans": {
+    "starter": {"per_seat_annual": 900, "min_seats": 5, "platform_fee": 0},
+    "growth": {"per_seat_annual": 1400, "min_seats": 10, "platform_fee": 6000},
+    "enterprise": {"per_seat_annual": 2000, "min_seats": 25, "platform_fee": 15000}
+  },
+  "volume_discounts": [
+    {"min_seats": 50, "discount": 0.10},
+    {"min_seats": 100, "discount": 0.15}
+  ],
+  "multi_year_discount": {"2": 0.05, "3": 0.10},
+  "max_rep_discount": 0.15,
+  "onboarding_fee": 3000
+}

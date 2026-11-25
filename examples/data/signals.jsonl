@@ -1,0 +1,7 @@
+{"domain":"acme-analytics.com","type":"pricing_page_visit","occurred_at":"2026-11-24T10:00:00Z","detail":"3 visits to /pricing"}
+{"domain":"acme-analytics.com","type":"hiring_for_role","occurred_at":"2026-11-20T09:00:00Z","detail":"Hiring: RevOps Analyst"}
+{"domain":"hooli.xyz","type":"funding_round","occurred_at":"2026-11-18T00:00:00Z","detail":"Series C, $60M"}
+{"domain":"hooli.xyz","type":"champion_job_change","occurred_at":"2026-11-22T00:00:00Z","detail":"Former customer champion Li Wang joined as Head of Data"}
+{"domain":"globex.io","type":"content_download","occurred_at":"2026-10-01T00:00:00Z","detail":"Downloaded RevOps benchmark report"}
+{"domain":"initech.com","type":"demo_request","occurred_at":"2026-11-25T08:30:00Z","detail":"Demo form: 'need to consolidate our outbound tooling'"}
+{"domain":"vandelay.com","type":"webinar_attended","occurred_at":"2026-11-10T00:00:00Z","detail":"Attended 'Signal-based outbound' webinar"}

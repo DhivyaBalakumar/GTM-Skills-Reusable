@@ -1,0 +1,9 @@
+out/
+.locks/
+__pycache__/
+*.pyc
+*.db
+.env
+config/gtm.config.json
+research/
+.venv/

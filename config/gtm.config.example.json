@@ -1,0 +1,68 @@
+{
+  "_comment": "Single config every skill reads. Copy to config/gtm.config.json and edit. Weights are points; tiers are score thresholds.",
+  "company": {
+    "name": "YourCo",
+    "product_one_liner": "What you sell, in one sentence.",
+    "value_props": [
+      "Value prop 1",
+      "Value prop 2"
+    ]
+  },
+  "icp": {
+    "industries": ["software", "fintech", "healthcare", "logistics"],
+    "employee_range": [50, 2000],
+    "countries": ["US", "GB", "DE", "IN", "AE"],
+    "tech_stack_positive": ["salesforce", "hubspot", "snowflake", "segment"],
+    "tech_stack_negative": ["competitor-x"],
+    "buying_committee_roles": {
+      "economic_buyer": ["ceo", "cfo", "cro", "vp sales", "head of revenue"],
+      "champion": ["head of gtm", "revops", "sales ops", "director of sales"],
+      "technical_evaluator": ["cto", "head of data", "engineering manager", "data engineer"],
+      "end_user": ["account executive", "bdr", "sdr", "account manager"]
+    }
+  },
+  "scoring": {
+    "fit": {
+      "industry_match": 20,
+      "employee_in_range": 20,
+      "country_match": 10,
+      "positive_tech_each": 5,
+      "positive_tech_max": 15,
+      "negative_tech": -25,
+      "title_seniority": {"c_level": 15, "vp": 12, "director": 9, "manager": 5, "ic": 2}
+    },
+    "intent": {
+      "half_life_days": 14,
+      "signals": {
+        "pricing_page_visit": 15,
+        "demo_request": 40,
+        "pricing_inquiry": 35,
+        "contact_sales": 35,
+        "content_download": 8,
+        "webinar_attended": 10,
+        "funding_round": 20,
+        "hiring_for_role": 12,
+        "champion_job_change": 25,
+        "tech_install": 10,
+        "competitor_churn_signal": 18,
+        "email_reply_positive": 30
+      }
+    },
+    "tiers": {"A": 80, "B": 60, "C": 40}
+  },
+  "routing": {
+    "sla_minutes": {"A": 5, "B": 60, "C": 1440},
+    "territories": [
+      {"name": "NA", "countries": ["US", "CA"], "reps": ["alice@yourco.com", "bob@yourco.com"]},
+      {"name": "EMEA", "countries": ["GB", "DE", "FR", "AE", "NL"], "reps": ["chen@yourco.com"]},
+      {"name": "APAC", "countries": ["IN", "SG", "AU", "JP"], "reps": ["devi@yourco.com"]}
+    ],
+    "enterprise_threshold_employees": 1000,
+    "enterprise_reps": ["erin@yourco.com"],
+    "fallback_queue": "gtm-unrouted@yourco.com"
+  },
+  "alerts": {
+    "slack_webhook_env": "SLACK_WEBHOOK_URL",
+    "max_accounts_per_rep": 5
+  }
+}

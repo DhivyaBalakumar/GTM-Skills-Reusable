@@ -1,0 +1,6 @@
+crm_id,name,domain,industry,employees,country,owner,tech_stack
+001A,Acme Analytics Inc.,acme-analytics.com,Software,320,US,alice@yourco.com,salesforce;segment
+001B,Globex Logistics,globex.io,Logistics,1500,DE,,hubspot
+001C,Initech,initech.com,Fintech,85,GB,chen@yourco.com,
+001D,Umbrella Health,umbrellahealth.com,Healthcare,4200,US,erin@yourco.com,snowflake;salesforce
+001E,Tiny Bakery,tinybakery.co,Food & Beverage,6,US,,

@@ -1,0 +1,28 @@
+# Example production schedule. Disabled until secrets are configured:
+# set repo secrets HUBSPOT_TOKEN (or SF_*), ANTHROPIC_API_KEY, SLACK_WEBHOOK_URL, SLACK_ALERT_WEBHOOK_URL
+# and replace examples/data sources with your landing files or connectors.
+name: daily-gtm
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "15 1 * * 1-5"   # 06:45 IST weekdays
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    env:
+      GTM_CRM: dryrun            # -> hubspot | salesforce when ready
+      HUBSPOT_TOKEN: ${{ secrets.HUBSPOT_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      SLACK_ALERT_WEBHOOK_URL: ${{ secrets.SLACK_ALERT_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: make daily
+      - run: make health
+        if: always()
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: gtm-out, path: out/ }

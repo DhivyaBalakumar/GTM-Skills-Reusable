@@ -1,0 +1,301 @@
+domain,industry,employees,country,tech_stack,title,outcome
+co0.com,healthcare,40,BR,salesforce,VP Sales,0
+co1.com,software,120,DE,salesforce,Director of Sales,1
+co2.com,software,400,BR,salesforce,CEO,1
+co3.com,logistics,10,DE,salesforce,CEO,0
+co4.com,retail,10,DE,segment;salesforce,RevOps Manager,1
+co5.com,fintech,10,DE,hubspot;snowflake,SDR,0
+co6.com,retail,10,DE,,Director of Sales,0
+co7.com,fintech,10,DE,segment;salesforce,Engineer,1
+co8.com,software,900,US,segment;salesforce,VP Sales,0
+co9.com,logistics,1800,DE,competitor-x,SDR,0
+co10.com,logistics,120,IN,hubspot;snowflake,CEO,0
+co11.com,fintech,10,DE,,Director of Sales,0
+co12.com,healthcare,1800,BR,,Director of Sales,0
+co13.com,software,900,BR,hubspot;snowflake,SDR,1
+co14.com,logistics,400,US,salesforce,Director of Sales,0
+co15.com,healthcare,120,IN,segment;salesforce,RevOps Manager,0
+co16.com,logistics,10,US,,RevOps Manager,0
+co17.com,software,10,IN,segment;salesforce,Engineer,0
+co18.com,healthcare,1800,BR,,VP Sales,0
+co19.com,healthcare,40,DE,salesforce,RevOps Manager,1
+co20.com,healthcare,40,GB,competitor-x,RevOps Manager,0
+co21.com,logistics,10,GB,competitor-x,RevOps Manager,0
+co22.com,fintech,5000,BR,segment;salesforce,SDR,0
+co23.com,healthcare,1800,BR,hubspot;snowflake,CEO,1
+co24.com,fintech,40,GB,salesforce,RevOps Manager,0
+co25.com,fintech,120,IN,salesforce,CEO,0
+co26.com,healthcare,900,DE,,CEO,0
+co27.com,retail,900,US,competitor-x,Engineer,0
+co28.com,logistics,400,BR,competitor-x,VP Sales,0
+co29.com,logistics,10,GB,salesforce,CEO,0
+co30.com,software,120,DE,salesforce,VP Sales,1
+co31.com,fintech,900,US,,Director of Sales,1
+co32.com,fintech,900,BR,hubspot;snowflake,Engineer,1
+co33.com,healthcare,900,IN,competitor-x,VP Sales,1
+co34.com,logistics,400,BR,competitor-x,SDR,1
+co35.com,software,1800,IN,,RevOps Manager,0
+co36.com,fintech,900,US,hubspot;snowflake,Director of Sales,0
+co37.com,manufacturing,900,US,segment;salesforce,SDR,0
+co38.com,software,1800,IN,segment;salesforce,SDR,0
+co39.com,healthcare,5000,GB,segment;salesforce,Director of Sales,0
+co40.com,healthcare,1800,GB,segment;salesforce,CEO,0
+co41.com,logistics,1800,GB,hubspot;snowflake,Director of Sales,0
+co42.com,manufacturing,10,US,,RevOps Manager,0
+co43.com,manufacturing,900,IN,competitor-x,Engineer,0
+co44.com,healthcare,10,GB,salesforce,CEO,0
+co45.com,healthcare,40,BR,segment;salesforce,Director of Sales,0
+co46.com,logistics,1800,IN,salesforce,Engineer,1
+co47.com,logistics,5000,GB,competitor-x,CEO,0
+co48.com,manufacturing,120,US,competitor-x,RevOps Manager,0
+co49.com,software,1800,GB,hubspot;snowflake,CEO,1
+co50.com,retail,400,GB,segment;salesforce,Director of Sales,0
+co51.com,manufacturing,120,GB,segment;salesforce,Director of Sales,1
+co52.com,software,5000,US,segment;salesforce,Engineer,0
+co53.com,logistics,5000,GB,hubspot;snowflake,VP Sales,0
+co54.com,healthcare,900,GB,segment;salesforce,SDR,1
+co55.com,logistics,5000,GB,salesforce,Engineer,0
+co56.com,logistics,1800,DE,segment;salesforce,RevOps Manager,0
+co57.com,retail,40,DE,hubspot;snowflake,Director of Sales,0
+co58.com,logistics,5000,GB,segment;salesforce,VP Sales,0
+co59.com,fintech,40,GB,competitor-x,Director of Sales,0
+co60.com,retail,10,IN,segment;salesforce,Director of Sales,0
+co61.com,software,900,US,hubspot;snowflake,CEO,1
+co62.com,software,900,BR,segment;salesforce,VP Sales,0
+co63.com,software,400,IN,segment;salesforce,Director of Sales,0
+co64.com,fintech,1800,IN,competitor-x,Director of Sales,0
+co65.com,logistics,900,GB,segment;salesforce,SDR,0
+co66.com,fintech,5000,BR,hubspot;snowflake,RevOps Manager,1
+co67.com,logistics,120,US,hubspot;snowflake,RevOps Manager,1
+co68.com,manufacturing,120,US,hubspot;snowflake,Engineer,0
+co69.com,healthcare,40,IN,hubspot;snowflake,RevOps Manager,0
+co70.com,software,400,BR,hubspot;snowflake,Engineer,0
+co71.com,fintech,1800,BR,segment;salesforce,RevOps Manager,0
+co72.com,fintech,120,IN,salesforce,Engineer,0
+co73.com,healthcare,900,BR,competitor-x,Engineer,1
+co74.com,healthcare,900,DE,,Director of Sales,0
+co75.com,software,5000,GB,salesforce,VP Sales,1
+co76.com,software,5000,GB,,CEO,0
+co77.com,manufacturing,5000,IN,competitor-x,CEO,0
+co78.com,retail,900,BR,,VP Sales,0
+co79.com,manufacturing,40,BR,salesforce,SDR,0
+co80.com,manufacturing,10,IN,salesforce,Director of Sales,0
+co81.com,software,120,US,competitor-x,VP Sales,0
+co82.com,retail,400,IN,segment;salesforce,CEO,1
+co83.com,manufacturing,40,US,hubspot;snowflake,SDR,0
+co84.com,fintech,120,IN,segment;salesforce,CEO,1
+co85.com,retail,1800,GB,,SDR,0
+co86.com,healthcare,10,US,salesforce,Engineer,0
+co87.com,fintech,900,BR,hubspot;snowflake,RevOps Manager,1
+co88.com,manufacturing,400,BR,segment;salesforce,RevOps Manager,0
+co89.com,healthcare,1800,GB,hubspot;snowflake,SDR,1
+co90.com,manufacturing,1800,GB,competitor-x,SDR,0
+co91.com,fintech,10,US,,RevOps Manager,0
+co92.com,software,1800,BR,segment;salesforce,Engineer,0
+co93.com,retail,40,IN,salesforce,RevOps Manager,0
+co94.com,healthcare,400,US,,SDR,0
+co95.com,retail,120,GB,salesforce,SDR,0
+co96.com,fintech,10,IN,competitor-x,VP Sales,0
+co97.com,retail,1800,GB,hubspot;snowflake,Director of Sales,0
+co98.com,software,120,US,hubspot;snowflake,RevOps Manager,0
+co99.com,logistics,10,IN,,Engineer,0
+co100.com,retail,900,GB,segment;salesforce,RevOps Manager,0
+co101.com,manufacturing,400,GB,,Engineer,0
+co102.com,fintech,10,DE,competitor-x,Engineer,0
+co103.com,retail,40,DE,segment;salesforce,Director of Sales,0
+co104.com,software,5000,DE,hubspot;snowflake,VP Sales,1
+co105.com,fintech,1800,IN,salesforce,RevOps Manager,0
+co106.com,retail,10,US,segment;salesforce,Engineer,0
+co107.com,healthcare,10,BR,salesforce,Engineer,0
+co108.com,retail,10,DE,salesforce,Engineer,0
+co109.com,healthcare,5000,US,,CEO,0
+co110.com,fintech,40,BR,competitor-x,RevOps Manager,1
+co111.com,manufacturing,120,US,segment;salesforce,Engineer,0
+co112.com,software,900,GB,,SDR,0
+co113.com,manufacturing,120,DE,segment;salesforce,CEO,1
+co114.com,software,400,IN,salesforce,Engineer,1
+co115.com,logistics,120,DE,,RevOps Manager,0
+co116.com,software,900,GB,,VP Sales,0
+co117.com,software,120,BR,salesforce,Director of Sales,0
+co118.com,logistics,120,BR,hubspot;snowflake,CEO,1
+co119.com,software,40,DE,,SDR,1
+co120.com,manufacturing,900,IN,salesforce,Engineer,0
+co121.com,logistics,400,BR,salesforce,CEO,1
+co122.com,logistics,1800,BR,competitor-x,SDR,0
+co123.com,logistics,120,BR,,VP Sales,0
+co124.com,software,120,IN,competitor-x,VP Sales,0
+co125.com,fintech,1800,US,,SDR,0
+co126.com,logistics,400,DE,salesforce,SDR,0
+co127.com,healthcare,5000,US,,VP Sales,1
+co128.com,manufacturing,120,GB,hubspot;snowflake,SDR,0
+co129.com,healthcare,40,IN,competitor-x,VP Sales,0
+co130.com,manufacturing,400,DE,segment;salesforce,CEO,0
+co131.com,software,1800,BR,competitor-x,Director of Sales,0
+co132.com,manufacturing,5000,IN,competitor-x,VP Sales,0
+co133.com,retail,40,GB,competitor-x,RevOps Manager,0
+co134.com,healthcare,120,IN,competitor-x,Engineer,0
+co135.com,logistics,900,BR,salesforce,CEO,0
+co136.com,software,40,DE,competitor-x,Director of Sales,0
+co137.com,healthcare,5000,BR,competitor-x,CEO,0
+co138.com,fintech,10,GB,,Director of Sales,1
+co139.com,fintech,120,IN,segment;salesforce,CEO,0
+co140.com,manufacturing,5000,BR,competitor-x,RevOps Manager,0
+co141.com,fintech,400,IN,,VP Sales,0
+co142.com,retail,120,GB,segment;salesforce,Director of Sales,0
+co143.com,fintech,10,IN,hubspot;snowflake,RevOps Manager,0
+co144.com,logistics,400,IN,salesforce,CEO,1
+co145.com,manufacturing,5000,BR,segment;salesforce,RevOps Manager,1
+co146.com,logistics,5000,DE,competitor-x,RevOps Manager,0
+co147.com,software,40,GB,hubspot;snowflake,Director of Sales,0
+co148.com,software,5000,BR,salesforce,Director of Sales,0
+co149.com,software,5000,GB,hubspot;snowflake,Director of Sales,0
+co150.com,manufacturing,1800,IN,hubspot;snowflake,Engineer,0
+co151.com,manufacturing,400,US,salesforce,VP Sales,0
+co152.com,retail,40,BR,,CEO,0
+co153.com,software,10,DE,,RevOps Manager,0
+co154.com,healthcare,1800,GB,competitor-x,Director of Sales,1
+co155.com,fintech,10,BR,,VP Sales,1
+co156.com,logistics,1800,BR,salesforce,SDR,1
+co157.com,logistics,120,GB,competitor-x,VP Sales,0
+co158.com,manufacturing,400,IN,competitor-x,CEO,1
+co159.com,healthcare,1800,DE,salesforce,CEO,0
+co160.com,fintech,120,GB,hubspot;snowflake,RevOps Manager,1
+co161.com,healthcare,10,DE,competitor-x,Director of Sales,0
+co162.com,fintech,400,BR,salesforce,Director of Sales,1
+co163.com,logistics,10,GB,salesforce,Director of Sales,1
+co164.com,software,1800,US,hubspot;snowflake,RevOps Manager,0
+co165.com,manufacturing,120,US,salesforce,CEO,0
+co166.com,fintech,1800,DE,competitor-x,VP Sales,0
+co167.com,manufacturing,400,IN,,RevOps Manager,0
+co168.com,software,10,IN,salesforce,SDR,0
+co169.com,software,900,GB,competitor-x,SDR,0
+co170.com,healthcare,5000,BR,salesforce,VP Sales,0
+co171.com,fintech,120,DE,competitor-x,CEO,0
+co172.com,manufacturing,400,US,competitor-x,CEO,0
+co173.com,logistics,10,BR,salesforce,RevOps Manager,1
+co174.com,software,120,GB,salesforce,Director of Sales,1
+co175.com,healthcare,120,DE,salesforce,SDR,0
+co176.com,manufacturing,120,IN,,VP Sales,0
+co177.com,retail,5000,US,salesforce,CEO,1
+co178.com,manufacturing,400,BR,,RevOps Manager,0
+co179.com,fintech,400,GB,salesforce,Engineer,1
+co180.com,manufacturing,5000,GB,segment;salesforce,CEO,0
+co181.com,healthcare,400,IN,segment;salesforce,VP Sales,0
+co182.com,logistics,5000,GB,hubspot;snowflake,RevOps Manager,1
+co183.com,software,400,DE,segment;salesforce,SDR,1
+co184.com,logistics,10,US,,Director of Sales,1
+co185.com,software,400,BR,competitor-x,CEO,1
+co186.com,logistics,400,DE,hubspot;snowflake,Engineer,0
+co187.com,manufacturing,5000,US,,SDR,0
+co188.com,healthcare,120,IN,,CEO,0
+co189.com,fintech,40,GB,hubspot;snowflake,SDR,0
+co190.com,retail,40,IN,salesforce,RevOps Manager,0
+co191.com,fintech,900,DE,hubspot;snowflake,Engineer,0
+co192.com,manufacturing,400,US,salesforce,VP Sales,0
+co193.com,fintech,5000,BR,,VP Sales,0
+co194.com,fintech,10,US,hubspot;snowflake,Director of Sales,0
+co195.com,retail,40,US,,Director of Sales,0
+co196.com,logistics,900,IN,salesforce,VP Sales,0
+co197.com,manufacturing,900,IN,hubspot;snowflake,VP Sales,0
+co198.com,fintech,10,GB,,VP Sales,0
+co199.com,manufacturing,40,US,,RevOps Manager,0
+co200.com,fintech,900,IN,salesforce,CEO,1
+co201.com,logistics,900,BR,salesforce,RevOps Manager,1
+co202.com,logistics,1800,DE,hubspot;snowflake,Engineer,0
+co203.com,manufacturing,40,BR,,RevOps Manager,0
+co204.com,manufacturing,120,BR,salesforce,SDR,0
+co205.com,healthcare,400,BR,salesforce,SDR,0
+co206.com,logistics,1800,BR,hubspot;snowflake,VP Sales,0
+co207.com,fintech,400,US,salesforce,RevOps Manager,0
+co208.com,healthcare,400,GB,hubspot;snowflake,VP Sales,1
+co209.com,fintech,1800,BR,salesforce,Director of Sales,0
+co210.com,healthcare,1800,DE,hubspot;snowflake,CEO,0
+co211.com,fintech,900,GB,salesforce,VP Sales,0
+co212.com,fintech,120,GB,salesforce,RevOps Manager,1
+co213.com,retail,1800,BR,salesforce,Engineer,0
+co214.com,fintech,1800,GB,segment;salesforce,RevOps Manager,0
+co215.com,fintech,5000,BR,hubspot;snowflake,Director of Sales,0
+co216.com,logistics,900,GB,competitor-x,SDR,1
+co217.com,fintech,1800,GB,salesforce,Director of Sales,0
+co218.com,manufacturing,10,IN,salesforce,RevOps Manager,0
+co219.com,retail,5000,IN,competitor-x,SDR,0
+co220.com,logistics,400,IN,competitor-x,Director of Sales,0
+co221.com,software,10,DE,competitor-x,RevOps Manager,0
+co222.com,retail,5000,BR,hubspot;snowflake,RevOps Manager,0
+co223.com,software,40,IN,competitor-x,SDR,1
+co224.com,logistics,900,DE,salesforce,VP Sales,0
+co225.com,software,1800,IN,segment;salesforce,VP Sales,1
+co226.com,retail,400,GB,salesforce,VP Sales,0
+co227.com,manufacturing,1800,US,hubspot;snowflake,CEO,0
+co228.com,logistics,120,GB,hubspot;snowflake,VP Sales,0
+co229.com,retail,5000,IN,hubspot;snowflake,SDR,0
+co230.com,healthcare,5000,BR,hubspot;snowflake,SDR,0
+co231.com,logistics,40,DE,,Director of Sales,0
+co232.com,healthcare,120,US,hubspot;snowflake,CEO,0
+co233.com,manufacturing,120,IN,competitor-x,CEO,0
+co234.com,healthcare,10,DE,salesforce,Engineer,0
+co235.com,logistics,900,DE,segment;salesforce,Engineer,0
+co236.com,software,120,DE,competitor-x,Engineer,0
+co237.com,healthcare,400,IN,segment;salesforce,CEO,1
+co238.com,software,400,GB,hubspot;snowflake,Director of Sales,0
+co239.com,software,120,DE,,SDR,0
+co240.com,retail,1800,IN,salesforce,Engineer,1
+co241.com,fintech,120,DE,competitor-x,RevOps Manager,0
+co242.com,software,40,BR,hubspot;snowflake,Director of Sales,0
+co243.com,software,10,US,segment;salesforce,SDR,0
+co244.com,retail,120,DE,hubspot;snowflake,RevOps Manager,0
+co245.com,retail,40,GB,,Director of Sales,0
+co246.com,fintech,40,US,hubspot;snowflake,Engineer,1
+co247.com,software,10,GB,,RevOps Manager,0
+co248.com,software,10,DE,,Director of Sales,0
+co249.com,logistics,900,DE,competitor-x,CEO,1
+co250.com,software,10,US,segment;salesforce,VP Sales,0
+co251.com,fintech,40,US,salesforce,VP Sales,0
+co252.com,manufacturing,40,GB,competitor-x,CEO,0
+co253.com,manufacturing,900,BR,segment;salesforce,CEO,0
+co254.com,software,120,US,competitor-x,Engineer,0
+co255.com,logistics,5000,BR,competitor-x,VP Sales,0
+co256.com,logistics,40,GB,salesforce,SDR,0
+co257.com,software,10,IN,,Engineer,1
+co258.com,manufacturing,900,BR,segment;salesforce,SDR,0
+co259.com,fintech,10,DE,salesforce,CEO,1
+co260.com,fintech,5000,GB,hubspot;snowflake,Engineer,0
+co261.com,fintech,400,IN,segment;salesforce,CEO,0
+co262.com,manufacturing,1800,DE,competitor-x,RevOps Manager,0
+co263.com,manufacturing,10,US,competitor-x,Engineer,0
+co264.com,healthcare,5000,GB,competitor-x,Director of Sales,0
+co265.com,retail,40,GB,salesforce,VP Sales,1
+co266.com,retail,40,IN,hubspot;snowflake,Engineer,1
+co267.com,software,40,US,salesforce,Engineer,1
+co268.com,retail,5000,IN,hubspot;snowflake,Director of Sales,0
+co269.com,software,5000,BR,salesforce,CEO,1
+co270.com,software,10,US,salesforce,Engineer,0
+co271.com,logistics,10,GB,salesforce,Engineer,1
+co272.com,healthcare,120,BR,,VP Sales,0
+co273.com,healthcare,10,IN,,Director of Sales,0
+co274.com,healthcare,900,US,competitor-x,VP Sales,0
+co275.com,software,120,BR,salesforce,Director of Sales,0
+co276.com,manufacturing,5000,US,segment;salesforce,SDR,0
+co277.com,software,900,GB,,VP Sales,1
+co278.com,logistics,10,BR,hubspot;snowflake,RevOps Manager,0
+co279.com,retail,120,DE,hubspot;snowflake,SDR,0
+co280.com,manufacturing,40,BR,hubspot;snowflake,VP Sales,0
+co281.com,software,400,DE,salesforce,Engineer,0
+co282.com,software,400,BR,salesforce,RevOps Manager,0
+co283.com,software,120,GB,,SDR,0
+co284.com,retail,900,GB,competitor-x,Engineer,0
+co285.com,logistics,40,DE,segment;salesforce,Engineer,0
+co286.com,manufacturing,10,IN,segment;salesforce,SDR,0
+co287.com,logistics,1800,DE,,CEO,0
+co288.com,manufacturing,5000,IN,segment;salesforce,CEO,1
+co289.com,logistics,1800,GB,segment;salesforce,CEO,1
+co290.com,manufacturing,5000,DE,hubspot;snowflake,Engineer,0
+co291.com,fintech,1800,IN,segment;salesforce,Director of Sales,1
+co292.com,fintech,120,GB,,Engineer,0
+co293.com,fintech,1800,US,hubspot;snowflake,RevOps Manager,1
+co294.com,fintech,5000,IN,,RevOps Manager,0
+co295.com,software,1800,US,,CEO,0
+co296.com,logistics,10,US,competitor-x,RevOps Manager,0
+co297.com,retail,1800,IN,competitor-x,VP Sales,0
+co298.com,retail,1800,BR,salesforce,Engineer,0
+co299.com,logistics,1800,DE,segment;salesforce,Engineer,0

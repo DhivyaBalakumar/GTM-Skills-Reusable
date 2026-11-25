@@ -1,0 +1,8 @@
+Discovery call with Acme Analytics — Jane Doe (VP Sales), Raj Iyer (RevOps Manager)
+- 12 BDRs, 6 AEs. Every rep has their own Apollo + spreadsheet setup; data is a mess, dupes in Salesforce.
+- Pain: reps spend ~1.5 hrs/day on research and CRM updates. Jane wants one system.
+- Budget: around $40k for this year, Jane signs off up to that, CFO above.
+- Competition: looked at building in-house with Clay, didn't have an engineer.
+- Decision: Raj runs evaluation, Jane decides. Security review needed (Priya Shah, IT).
+- They asked us to send a proposal by Friday.
+Next step: send proposal + security questionnaire, book follow-up with Jane and Priya for next Tuesday.

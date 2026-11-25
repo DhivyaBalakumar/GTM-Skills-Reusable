@@ -1,0 +1,6 @@
+source_id,company_name,website,industry,headcount,hq_country,technologies
+E-9,ACME Analytics,https://www.acme-analytics.com/,software,340,United States,salesforce;segment;snowflake
+E-10,Globex Logistics GmbH,http://globex.io,logistics,1450,Germany,hubspot;competitor-x
+E-11,Hooli,hooli.xyz,software,900,IN,snowflake;hubspot
+E-12,Vandelay Industries,vandelay.com,Manufacturing,220,US,
+E-13,Initech Ltd,www.initech.com,fintech,90,GB,segment

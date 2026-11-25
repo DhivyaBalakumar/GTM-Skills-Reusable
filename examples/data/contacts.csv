@@ -1,0 +1,8 @@
+email,first_name,last_name,title,company_domain,source
+jane@acme-analytics.com,Jane,Doe,VP Sales,acme-analytics.com,crm
+JANE@ACME-ANALYTICS.COM,Jane,Doe,VP of Sales,acme-analytics.com,enrichment
+raj@acme-analytics.com,Raj,Iyer,RevOps Manager,acme-analytics.com,enrichment
+m.weber@globex.io,Mia,Weber,CFO,globex.io,crm
+li@hooli.xyz,Li,Wang,Head of Data,hooli.xyz,enrichment
+sam@hooli.xyz,Sam,Roy,Account Executive,hooli.xyz,enrichment
+peter@initech.com,Peter,Gibbons,Engineering Manager,initech.com,crm

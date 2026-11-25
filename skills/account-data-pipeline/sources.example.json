@@ -1,0 +1,21 @@
+{
+  "_comment": "One entry per source. 'mapping' maps canonical field -> source column. priority: higher wins field conflicts.",
+  "accounts": [
+    {
+      "source": "crm",
+      "path": "examples/data/crm_accounts.csv",
+      "priority": 3,
+      "mapping": {"source_id": "crm_id", "name": "name", "domain": "domain", "industry": "industry",
+                  "employees": "employees", "country": "country", "owner": "owner", "tech_stack": "tech_stack"}
+    },
+    {
+      "source": "enrichment",
+      "path": "examples/data/enrichment_accounts.csv",
+      "priority": 2,
+      "mapping": {"source_id": "source_id", "name": "company_name", "domain": "website", "industry": "industry",
+                  "employees": "headcount", "country": "hq_country", "tech_stack": "technologies"}
+    }
+  ],
+  "contacts": [{"path": "examples/data/contacts.csv", "source_column": "source"}],
+  "signals": [{"path": "examples/data/signals.jsonl"}]
+}

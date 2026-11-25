@@ -1,0 +1,4 @@
+rep,role,date,task,tool,minutes,manual_copy(y/n),could_automate(y/n),notes
+example-bdr,BDR,2026-11-25,research account before call,LinkedIn + website,12,n,y,repeats ~20x/day
+example-bdr,BDR,2026-11-25,copy contacts from Apollo to CRM,Apollo -> HubSpot,25,y,y,dupes created
+example-ae,AE,2026-11-25,update CRM after discovery call,Salesforce,15,y,y,

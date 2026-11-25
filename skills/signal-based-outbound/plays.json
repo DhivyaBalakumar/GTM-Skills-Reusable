@@ -1,0 +1,13 @@
+{
+  "_comment": "Signal type -> outbound play. 'persona' = committee role to lead with. Edit freely; the engine reads this file.",
+  "demo_request": {"play": "Speed-to-lead", "persona": "champion", "channel": "phone", "angle": "They asked. Call within the SLA, confirm the pain in their own words, book the demo."},
+  "pricing_page_visit": {"play": "Pricing-intent follow-up", "persona": "champion", "channel": "email+phone", "angle": "Evaluating cost now. Lead with ROI / time saved per rep, offer a 15-min pricing walk-through."},
+  "champion_job_change": {"play": "Champion moved", "persona": "champion", "channel": "linkedin+email", "angle": "Congratulate, reference past success with us, ask what their first 90 days look like."},
+  "funding_round": {"play": "Post-funding scale", "persona": "economic_buyer", "channel": "email", "angle": "New money means hiring targets. Show how to ramp new reps faster without adding headcount."},
+  "hiring_for_role": {"play": "Hiring signal", "persona": "economic_buyer", "channel": "email", "angle": "The job post names the pain. Quote it and show how teams automate that work instead."},
+  "tech_install": {"play": "Stack fit", "persona": "technical_evaluator", "channel": "email", "angle": "Just adopted a tool we integrate with. Offer the integration recipe."},
+  "competitor_churn_signal": {"play": "Competitive displacement", "persona": "champion", "channel": "email+phone", "angle": "Unhappy with incumbent. Offer migration plan + side-by-side."},
+  "webinar_attended": {"play": "Event follow-up", "persona": "end_user", "channel": "email", "angle": "Reference the session topic, share the recording + one tactical takeaway."},
+  "content_download": {"play": "Content nurture", "persona": "end_user", "channel": "email", "angle": "Low intent alone. Add to nurture unless combined with another signal."},
+  "email_reply_positive": {"play": "Hand-raise", "persona": "champion", "channel": "phone", "angle": "Positive reply. Book the meeting today."}
+}

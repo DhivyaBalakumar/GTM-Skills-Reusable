@@ -1,4 +1,4 @@
-# GTM Skills — a reusable GTM engineering system for Claude
+# GTM Skills - a reusable GTM engineering system for Claude
 
 These are reusable **Claude skills plus working Python and SQL** for one central, automated go-to-market system. BDRs and AEs all work from it, so nobody has to run their own setup for data, outreach and comms.
 
